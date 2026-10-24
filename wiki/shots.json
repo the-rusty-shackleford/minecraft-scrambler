@@ -1,0 +1,10 @@
+{
+  "shots": [
+    {"from": "run/booth/screenshots/booth-three-quarter.png", "to": "img/scrambler.webp"},
+    {"from": "run/booth/screenshots/booth-jump-peak.png", "to": "img/jump.webp"},
+    {"from": "run/booth/screenshots/booth-jump-bar.png", "to": "img/jump-bar.webp", "screen": true},
+    {"from": "run/booth/screenshots/booth-lean.png", "to": "img/lean.webp"},
+    {"from": "run/booth/screenshots/booth-side-blue.png", "to": "img/painted.webp"},
+    {"from": "run/booth/screenshots/booth-first-person.png", "to": "img/bars.webp"}
+  ]
+}

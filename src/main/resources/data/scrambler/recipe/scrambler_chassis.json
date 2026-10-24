@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  S",
+    "SSS",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "tag": "c:ingots/steel"
+    }
+  },
+  "result": {
+    "id": "vanillawheels:chassis",
+    "count": 1,
+    "components": {
+      "vanillawheels:vehicle": "scrambler:scrambler"
+    }
+  }
+}
